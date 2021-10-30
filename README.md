@@ -8,7 +8,7 @@ Let's build an interactive web app that can transcribe YouTube videos in minutes
 For this project you need 3 libraries on top of Python:
 * Streamlit (pip install streamlit)
 * Youtube_dl (pip install youtube_dl)
-* FFmpeg (download here)
+* FFmpeg ([download here](https://ffbinaries.com/downloads))
 
 These libraries will enable us to create a front-end for our project, download youtube videos and extract audio files from youtube videos respectively.
 
